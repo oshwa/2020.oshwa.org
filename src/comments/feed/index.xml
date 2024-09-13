@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for 2020 Open Hardware Summit	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>March 13th 2020, NYU School of Law, New York</description>
+	<lastBuildDate>Fri, 05 Aug 2022 03:16:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		Comment on The 2020 Open Hardware Summit is Going Virtual by Open Source Hardware Certifications For February &#8211; OSHdata		</title>
+		<link>/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/#comment-612</link>
+
+		<dc:creator><![CDATA[Open Source Hardware Certifications For February &#8211; OSHdata]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2020 17:59:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=246#comment-612</guid>
+
+					<description><![CDATA[[&#8230;] Hardware Summit! Summit will be held virtually this year and all are invited to join. This&#160;blog post&#160;from OSHWA outlines what you can look forward to with the all-virtual format this year. Keep [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Hardware Summit! Summit will be held virtually this year and all are invited to join. This&nbsp;blog post&nbsp;from OSHWA outlines what you can look forward to with the all-virtual format this year. Keep [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The 2020 Open Hardware Summit is Going Virtual by Open Source Hardware Certifications For February 2020 &#124; Make:		</title>
+		<link>/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/#comment-151</link>
+
+		<dc:creator><![CDATA[Open Source Hardware Certifications For February 2020 &#124; Make:]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2020 15:02:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=246#comment-151</guid>
+
+					<description><![CDATA[[&#8230;] the Open Hardware Summit! Summit will be held virtually this year and all are invited to join. This blog post from OSHWA outlines what you can look forward to with the all-virtual format this year. Keep an eye [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] the Open Hardware Summit! Summit will be held virtually this year and all are invited to join. This blog post from OSHWA outlines what you can look forward to with the all-virtual format this year. Keep an eye [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

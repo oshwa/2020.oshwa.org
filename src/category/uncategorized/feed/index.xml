@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; 2020 Open Hardware Summit</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>March 13th 2020, NYU School of Law, New York</description>
+	<lastBuildDate>Fri, 05 Aug 2022 03:19:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">162848210</site>	<item>
+		<title>Virtual Summit Test</title>
+		<link>/2020/03/11/virtual-summit-test/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2020 16:13:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=254</guid>
+
+					<description><![CDATA[This is a test test]]></description>
+										<content:encoded><![CDATA[
+<p>This is a test</p>
+
+
+
+<p><iframe title="Michael Weinberg: Open Source Hardware Certification 2.0 (1 of 19)" width="200" height="113" src="https://www.youtube.com/embed/videoseries?list=PLN2I5IwhHQ4qn3nWQX3Pif8VyAZkWJ61Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+test
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">254</post-id>	</item>
+		<item>
+		<title>The 2020 Open Hardware Summit is Going Virtual</title>
+		<link>/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/</link>
+					<comments>/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/#comments</comments>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2020 22:15:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=246</guid>
+
+					<description><![CDATA[In our&#160;last update&#160;we promised to continue to monitor the coronavirus situation and to update the community as things evolved. Today we are announcing that things have evolved, and explaining what that means for the community and the Summit. We are switching to an all-virtual summit for 2020.  We are coordinating with speakers to move all presentations to streaming online video.  You can expect a schedule&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>In our<a href="https://www.oshwa.org/2020/03/05/the-open-hardware-summit-is-still-on/">&nbsp;last update</a>&nbsp;we promised to continue to monitor the coronavirus situation and to update the community as things evolved. Today we are announcing that things have evolved, and explaining what that means for the community and the Summit.<br></p>
+
+
+
+<ol class="wp-block-list"><li><strong>We are switching to an all-virtual summit for 2020</strong>.  We are coordinating with speakers to move all presentations to streaming online video.  You can expect a schedule similar to the one we have <a href="/schedule/">already announced</a>, as well as a robust set of online chat options for the community to discuss the day’s events.</li><li>We also <em>still plan</em> on holding the <a href="https://www.eventbrite.com/e/open-hardware-summit-pre-party-tickets-95648185297">pre-party happy hour</a> the evening of March 12 for community members who are in NYC.  The happy hour is free to anyone who is able to attend. If you are in the area we look forward to seeing you there.  However, <em>we do not recommend traveling to NYC just for the happy hour</em>.  </li><li>We continue to offer full refunds on tickets to anyone who has purchased tickets to the Summit.  Contact <a href="mailto:info@oshwa.org">info@oshwa.org</a> for more details.</li><li>We will be sending full swag bags to all ticket holders.</li><li>Next year’s summit will be in NYC again on<strong> April 9, 2021</strong>. Mark your calendars!</li></ol>
+
+
+
+<p>While we are sorry to have to make this change, we are still excited about this year’s Summit.&nbsp; &nbsp;We have a fantastic lineup of speakers and even more OSHWA announcements planned. While we know that many members of our community will be disappointed not to be able to see each other in person this year, we look forward to seeing all of you virtually on Friday and in person in 2021.<br></p>
+
+
+
+<p>Thank you all again for being part of the open source hardware community!&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">246</post-id>	</item>
+		<item>
+		<title>Join the Summit pre-event party!</title>
+		<link>/2020/02/21/join-the-summit-pre-event-party/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 08:26:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=238</guid>
+
+					<description><![CDATA[It’s official!  Prior to the upcoming 10th Anniversary Open Hardware Summit in New York City, we’re hosting a pre-event party in partnership with Engelberg Center and ITP for the Open Source Hardware Summit attendees and community members.  The party is on Thu, March 12, 2020, 6:00 PM – 9:00 PM EDT at 370 Jay Street, Brooklyn, NY 11201 Join OSHWA, the Engelberg Center, ITP, and&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>It’s official!  Prior to the upcoming 10th Anniversary Open Hardware Summit in New York City, we’re hosting a pre-event party in partnership with <a href="https://www.law.nyu.edu/centers/engelberg">Engelberg Center</a> and <a href="https://tisch.nyu.edu/itp">ITP</a> for the Open Source Hardware Summit attendees and community members.  </p>
+
+
+
+<p>The party is on Thu, March 12, 2020, 6:00 PM – 9:00 PM EDT at 370 Jay Street, Brooklyn, NY 11201 </p>
+
+
+
+<p>Join <a rel="noreferrer noopener" href="https://www.oshwa.org/" target="_blank">OSHWA</a>, the <a href="https://www.law.nyu.edu/centers/engelberg">Engelberg Center,</a> <a rel="noreferrer noopener" href="https://tisch.nyu.edu/itp" target="_blank">ITP,</a> and 370🅙Project for the official pre-party for the <a rel="noreferrer noopener" href="/" target="_blank">Open Hardware Summit</a>.  Meet up with friends, meet new friends, and check out ITP&#8217;s new home in 370 Jay</p>
+
+
+
+<p>Register here to join the pre-event party- <a href="https://www.eventbrite.com/e/open-hardware-summit-pre-party-tickets-95648185297">https://www.eventbrite.com/e/open-hardware-summit-pre-party-tickets-95648185297</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">238</post-id>	</item>
+		<item>
+		<title>Open Hardware Summit Name Badges</title>
+		<link>/2020/02/20/open-hardware-summit-name-badges/</link>
+		
+		<dc:creator><![CDATA[alicia]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2020 19:09:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=231</guid>
+
+					<description><![CDATA[SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: /tickets/ Tickets bought after March 1st will have paper badges. Thank you SparkFun, for&#8230; ]]></description>
+										<content:encoded><![CDATA[<p><br>
+<br>
+<!--StartFragment--></p>
+
+
+<p>SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. </p>
+
+
+
+<p>These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: <a href="/tickets/">/tickets/</a>  Tickets bought after March 1st will have paper badges. </p>
+
+
+
+<p>Thank you SparkFun, for the generous support! </p>
+
+
+<p><!--EndFragment--><br>
+<br>
+</p>
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="284" height="177" src="https://i0.wp.com/2020.oshwa.org/files/2020/02/download-1.png?resize=284%2C177&#038;ssl=1" alt="" class="wp-image-232" data-recalc-dims="1"/></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">231</post-id>	</item>
+		<item>
+		<title>Summit schedule announced!</title>
+		<link>/2020/02/16/summit-schedule-announced/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2020 22:50:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=210</guid>
+
+					<description><![CDATA[Hello, We have announced the Open Source Hardware Summit 2020 schedule. Visit- /schedule/ to see the schedule and talk descriptions can be found here- /speakers/. Book your tickets now before we run out of them. Looking forward to see you all at the Summit.]]></description>
+										<content:encoded><![CDATA[
+<p>Hello, </p>
+
+
+
+<p>We have announced the Open Source Hardware Summit 2020 schedule. Visit-  /schedule/ to see the schedule and talk descriptions can be found here- /speakers/. </p>
+
+
+
+<p>Book your tickets now before we run out of them. Looking forward to see you all at the Summit. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">210</post-id>	</item>
+		<item>
+		<title>Corrected Post: Open Hardware Summit Name PCB Badges</title>
+		<link>/2020/02/11/open-hardware-summit-2020-exclusive-wrist-pcb-badges/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 06:20:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=203</guid>
+
+					<description><![CDATA[SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: /tickets/ Tickets bought after March 1st will have paper badges. Thank you Sparkfun, for&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. </p>
+
+
+
+<p>These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: <a href="/tickets/">/tickets/</a>  Tickets bought after March 1st will have paper badges. </p>
+
+
+
+<p>Thank you Sparkfun, for the generous support! </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="284" height="177" src="https://i0.wp.com/2020.oshwa.org/files/2020/02/download.png?resize=284%2C177&#038;ssl=1" alt="" class="wp-image-229" data-recalc-dims="1"/></figure>
+
+
+
+<p></p>
+
+
+
+<p>** There has been some confusion between this badge and a hacker badge being sponsored by SparkFun, OSHPark, and DigiKey. The hacker badge will be in all attendees bags, but is not a name badge. </p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">203</post-id>	</item>
+		<item>
+		<title>First round of Speakers for the Summit Announced</title>
+		<link>/2020/02/11/first-round-of-speakers-for-the-summit-announced/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 05:30:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=200</guid>
+
+					<description><![CDATA[Hello Open Hardware Community, Thank you for the overwhelming response with your submissions again this year. We have announced first round of confirmed speakers for Open Hardware Summit 2020. We are excited to have them speak on various topics from 3d printing to space, chip level design to robots. This being the 10th annual summit, the speakers will also cover the learnings from past decade&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Hello Open Hardware Community,</p>
+
+
+
+<p>Thank you for the overwhelming response with your submissions again this year. </p>
+
+
+
+<p>We have announced first round of confirmed speakers for Open Hardware Summit 2020. We are excited to have them speak on various topics from 3d printing to space, chip level design to robots.  </p>
+
+
+
+<p>This being the 10th annual summit, the speakers will also cover the learnings from past decade and what to expect in the next decade of open hardware revolution. Check out the list here- /speakers/</p>
+
+
+
+<p>We will announce the next set of speakers and schedule soon. </p>
+
+
+
+<p>Looking forward to seeing you at the Summit on 13th March 2020. </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1054" height="639" src="https://i0.wp.com/2020.oshwa.org/files/2020/02/speakers.jpg?fit=790%2C479&amp;ssl=1" alt="" class="wp-image-201" srcset="https://i0.wp.com/2020.oshwa.org/files/2020/02/speakers.jpg?w=1054&amp;ssl=1 1054w, https://i0.wp.com/2020.oshwa.org/files/2020/02/speakers.jpg?resize=300%2C182&amp;ssl=1 300w, https://i0.wp.com/2020.oshwa.org/files/2020/02/speakers.jpg?resize=1024%2C621&amp;ssl=1 1024w, https://i0.wp.com/2020.oshwa.org/files/2020/02/speakers.jpg?resize=768%2C466&amp;ssl=1 768w" sizes="(max-width: 790px) 100vw, 790px" /></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">200</post-id>	</item>
+		<item>
+		<title>Ada Lovelace Fellows 2020 Announced</title>
+		<link>/2020/02/11/ada-lovelace-fellows-2020-announced/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 05:13:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=198</guid>
+
+					<description><![CDATA[We are excited to inform that we have announced the results of Ada Lovelace Fellowship 2020. This year again we received several applicants and we were able to select only select who applied. We are also thankful to Amie DD who offered to provide fellowship to few additional applicants this year. Looking forward to interact with the Ada Lovelace Fellows soon.]]></description>
+										<content:encoded><![CDATA[
+<p>We are excited to inform that we have announced the results of Ada Lovelace Fellowship 2020. This year again we received several applicants and we were able to select only select who applied. </p>
+
+
+
+<p>We are also thankful to Amie DD who offered to provide fellowship to few additional applicants this year. </p>
+
+
+
+<p>Looking forward to interact with the Ada Lovelace Fellows soon. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">198</post-id>	</item>
+		<item>
+		<title>Open Source Hardware Summit (Edition 10), Call for Proposals</title>
+		<link>/2019/10/12/open-source-hardware-summit-edition-10-call-for-proposals/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Sat, 12 Oct 2019 17:44:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=124</guid>
+
+					<description><![CDATA[The Open Hardware Summit (OHS) invites talk/demo proposals for the tenth annual summit! To be held on Friday, March 13,2020 at the New York University’s Law School (Tishman Auditorium) . &#160;The Open Hardware Summit is for presenting, discussing, and learning about open hardware of all kinds. The summit examines open hardware applications, practices, and theory, ranging from environmental sensors to 3D printable medical devices to&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>The Open Hardware Summit (OHS) invites talk/demo proposals for the  tenth annual summit! To be held on Friday, March 13,2020 at the New York  University’s Law School (Tishman Auditorium) .</p>
+
+
+
+<p>&nbsp;The Open Hardware Summit is for presenting, discussing, and learning
+ about open hardware of all kinds. The summit examines open hardware 
+applications, practices, and theory, ranging from environmental sensors 
+to 3D printable medical devices to open hardware processors and beyond. 
+We are interested in open hardware on its own as well as in relation to 
+topics such as software, design, business, law, and education.&nbsp;</p>
+
+
+
+<p>For our tenth edition we are especially looking for speakers who can 
+share historical perspective on the past decade of open hardware 
+movement, alongside speakers who will showcase projects demonstrating 
+current trends, challenges, and future growth opportunities in the open 
+hardware movement.</p>
+
+
+
+<p>We invite talk proposals from individuals and groups. Kindly note that the updated deadline for talks submissions is now <span style="text-decoration: underline">Sunday December 1st 2019</span>. Accepted proposals will be notified by Friday, January 17<sup>th</sup> 2020.</p>
+
+
+
+<p> Visit <a href="/apply">/apply</a> to find more information.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">124</post-id>	</item>
+		<item>
+		<title>Celebrating a decade of Open Source Hardware &#038; Community</title>
+		<link>/2019/06/27/open-hardware-summit-2020-date-location-announced/</link>
+		
+		<dc:creator><![CDATA[Rolly]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2019 05:59:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=10</guid>
+
+					<description><![CDATA[Thank you all for your overwhelming support for the Open Hardware. In 2020, we will be celebrating tenth anniversary of the Open Hardware Summit. The 2020 Open Hardware Summit will be held Friday, March 13th, 2020 at Tishman Auditorium &#8211; NYU School of Law located at 63 5th Ave, New York, NY 10003, USA. The Open Hardware Summit is the annual conference of the 501c3 Open&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="640" height="427" src="https://i0.wp.com/2020.oshwa.org/files/2019/06/23794049418_f615e82595_zm.jpg?resize=640%2C427" alt="" class="wp-image-47" srcset="https://i0.wp.com/2020.oshwa.org/files/2019/06/23794049418_f615e82595_zm.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/2020.oshwa.org/files/2019/06/23794049418_f615e82595_zm.jpg?resize=300%2C200&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>Thank you all for your overwhelming support for the Open Hardware. In 2020, we will be celebrating tenth anniversary of the Open Hardware Summit.</p>
+
+
+
+<p>The 2020 Open Hardware Summit will be held Friday, March 13th, 2020 at Tishman Auditorium &#8211; NYU School of Law located at <strong>63 5th Ave, New York, NY 10003, USA.</strong></p>
+
+
+
+<p>The Open Hardware Summit is the annual conference of the 501c3<a href="https://www.oshwa.org/membership/"> Open Source Hardware Association (OSHWA)</a>. We aim to foster technological knowledge and encourage research that is accessible, collaborative and respects user freedom.&nbsp;OSHWA is recognized by the IRS as a 501(c)(3) tax-exempt public charity and donations and sponsorships to OSHWA and the Summit are tax-deductible to the extent permitted by law.</p>
+
+
+
+<p>Looking to coordinate with fellow attendees? Answers to questions related to the summit? Wondering what the summit community is like? Come join us at the <a href="http://community.oshwa.org/t/open-hardware-summit-2018-mit-september-27th/183">OSHWA OHS forum here</a>!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10</post-id>	</item>
+	</channel>
+</rss>

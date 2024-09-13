@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>alicia &#8211; 2020 Open Hardware Summit</title>
+	<atom:link href="/author/alicia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>March 13th 2020, NYU School of Law, New York</description>
+	<lastBuildDate>Fri, 05 Aug 2022 03:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">162848210</site>	<item>
+		<title>Open Hardware Summit Name Badges</title>
+		<link>/2020/02/20/open-hardware-summit-name-badges/</link>
+		
+		<dc:creator><![CDATA[alicia]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2020 19:09:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=231</guid>
+
+					<description><![CDATA[SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: /tickets/ Tickets bought after March 1st will have paper badges. Thank you SparkFun, for&#8230; ]]></description>
+										<content:encoded><![CDATA[<p><br>
+<br>
+<!--StartFragment--></p>
+
+
+<p>SparkFun is our badges sponsor this year and the conference badges for Open Hardware Summit 2020 will be extremely awesome PCB badges. </p>
+
+
+
+<p>These badges once made will exclusively be available to the attendees of the Open Hardware Summit 2020 who have registered before March 1st 2020. So, get your tickets soon: <a href="/tickets/">/tickets/</a>  Tickets bought after March 1st will have paper badges. </p>
+
+
+
+<p>Thank you SparkFun, for the generous support! </p>
+
+
+<p><!--EndFragment--><br>
+<br>
+</p>
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="284" height="177" src="https://i0.wp.com/2020.oshwa.org/files/2020/02/download-1.png?resize=284%2C177&#038;ssl=1" alt="" class="wp-image-232" data-recalc-dims="1"/></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">231</post-id>	</item>
+	</channel>
+</rss>
